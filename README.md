@@ -24,11 +24,16 @@ Designed an interactive and visually intuitive dashboard using Excel tools like 
 
 ## Insights & Outcomes:
 
-Lower average income generally correlated with a greater likelihood of purchasing a bike.
+Lower average income generally correlated with a greater likelihood of purchasing a bike, suggesting that affordability and cost-efficiency play a key role in their transportation choices.
 
-Customers with shorter commute distances (especially those within 0-1 Miles) were more inclined to buy bikes, suggesting they may be using them for short trips or daily commutes.
+Customers with shorter commute distances (especially those within 0-1 miles) were more inclined to buy bikes, suggesting they may be using them for short trips or daily commutes. This makes it essential to market bikes as convenient solutions for short distances, emphasizing portability and efficiency for quick travel. 
 
-Middle-aged groups (especially those between 30–54 years) showed higher purchase rates, potentially indicating interest in eco-friendly transport options.
+Middle-aged adults (ages 30–54 years) showed higher purchase rates, posssibly due to greater family and work responsibilities that require reliable, flexible transportation options, alongside a growing awareness of health and environmental impact. Marketing campaigns should highlight the reliability, convenience, and versatility of bikes for everyday tasks such as commuting, school drop-offs, and errands. They should also emphasize how biking aligns with a busy lifestyle while promoting health, time efficiency, and environmental responsibility.
+
+Bike purchase rates declined in older age groups (55+), possibly due to physical limitations or lack of interest in cycling. To better engage this demographic, businesses should explore alternative mobility products and promote electric bikes with comfort-focused features.
+
+Customers aged 18–29 showed lower purchase behavior, indicating untapped market potential. Targeted strategies that emphasize affordability, trendy designs, and alignment with urban or student lifestyles could help increase engagement within this demographic.
+
 
 ## Tools Used:
 
