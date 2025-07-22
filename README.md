@@ -1,4 +1,5 @@
 # Excel Bike Sales Data Analysis Project
+![Dashboard Screenshot](https://github.com/JessicaOfoma/Bike-sales-analysis/blob/main/excel%20project%201.JPG?raw=true)
 ## Overview
 
 This project involved analyzing a bike sales dataset using Microsoft Excel. The objective was to uncover insights into customer behavior and purchasing patterns based on demographics and commute habits.
