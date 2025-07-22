@@ -1,4 +1,4 @@
-# Excel Bike Sales Data Analysis Project
+# Bike Sales Analysis
 ![Dashboard Screenshot](https://github.com/JessicaOfoma/Bike-sales-analysis/blob/main/dashboard.JPG?raw=true)
 ## Overview
 
